@@ -9,7 +9,7 @@
         "workspaceName": {
 
             "type": "string",
-            "defaultValue": "Check01",
+            "defaultValue": "Check02",
 
             "metadata": {
 
@@ -159,7 +159,7 @@
 
             "type": "string",
 
-            "defaultValue": "new",
+            "defaultValue": "new2",
 
             "allowedValues": [
 
@@ -197,7 +197,7 @@
 
             "type": "string",
 
-            "defaultValue": "new",
+            "defaultValue": "new2",
 
             "allowedValues": [
 
@@ -229,7 +229,7 @@
 
             "type": "string",
 
-            "defaultValue": "new",
+            "defaultValue": "new2",
 
             "allowedValues": [
 
@@ -323,7 +323,7 @@
 
             "type": "string",
 
-            "defaultValue": "",
+            "defaultValue": "2",
 
             "metadata": {
 
@@ -337,7 +337,7 @@
 
             "type": "string",
 
-            "defaultValue": "",
+            "defaultValue": "2",
 
             "metadata": {
 
